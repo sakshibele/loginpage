@@ -1,0 +1,8 @@
+@media screen and (max-width: 704px) {
+    .image{
+        width: 50vw;
+    }
+    .box{
+        width: 247px;
+    }
+}

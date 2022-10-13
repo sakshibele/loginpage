@@ -1,0 +1,17 @@
+@media screen and (max-width: 621px){
+    .text{
+        margin-top: 52vh;
+    }
+    .loginbox{
+        width: 25%;
+    }
+    .backgroundimg h1 {
+        padding-top: 13%;
+    }
+    .image {
+        width: 75vw;
+    }
+    .box{
+        left: 28.5%
+        }
+}

@@ -1,0 +1,20 @@
+@media screen and (max-width: 450px){
+    .box {
+        width: 230px;
+        padding-left: 21px;
+        left: 15%;
+    }
+    .backgroundimg h1{
+    padding-left: 7%;
+    }
+    .image{
+    width: 100vw;
+    height: 125vh;
+    }
+    .loginbox {
+        width: 0%;
+    }
+    .text {
+        margin-top: 61vh;
+    }
+}

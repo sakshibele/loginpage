@@ -1,0 +1,11 @@
+@media screen and (max-width: 756px) {
+    .box{
+        left: 2.5%;
+        width: 272px;
+    }
+    .backgroundimg input[type="button"]{
+        margin-right: 42%;
+    width: 44%;
+    }
+    
+}
